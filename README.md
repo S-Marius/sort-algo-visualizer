@@ -1,4 +1,5 @@
 <h1>Sort Algorithm Visualizer in Browser</h1>
+<p>Test it out yourself: https://glittery-creponne-ba9c15.netlify.app/</p>
 <p>Welcome, <b>Sort Algorithm Visualizer</b> is a web page built to display some of the most popular sorting algorithms out there along with its code, in the following programming languages: <b>C++, Java, Ruby, Python and Javascript</b></p>
 
 <h2>Technical description</h2>
